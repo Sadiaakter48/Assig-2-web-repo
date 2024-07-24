@@ -1,0 +1,117 @@
+.navbar{
+
+
+}
+.banner{
+    background-color: black;
+}
+.line-1{
+    text-decoration-color: orangered;
+    display: flex;
+    justify-content: space-evenly;
+}
+.a{
+    font-style: italic;
+    color: orangered;
+
+}
+.b{
+    border-radius: 20px;
+}
+.c{
+    background-color: rgb(218, 94, 49);
+    border-radius: 5px;
+}
+.aa{
+    color: aliceblue;
+    
+}
+.dd{
+    background-color: orangered;
+    border-radius: 10px;
+}
+.ee{
+    border-radius: 10px;
+    background-color: rgb(187, 200, 211);
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 30px;
+}
+.img{
+    height: 100%;
+    
+}
+.ff{
+    justify-content: center;
+    text-align: center;
+}
+.habit{
+    color:white;
+    text-align: center;
+}
+.color{
+    color: grey;
+}
+.part-b{
+    display: flex;
+    justify-content: center;
+}
+.rd{
+    border-radius: 50rem;
+    padding: 10px;
+}
+/* third main part */
+.trd{
+    background-color: darkslategray;
+    max-width: 50rem;
+    margin-left: 14rem;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.first{
+    margin-left: 5%;
+}
+.wh{
+    color: aliceblue;
+}
+.ff{
+    background-color: orangered;
+    border-radius: 7px;
+}
+.rr{
+    width: 50%;
+    margin-left: 45%;
+    margin-top: 6%;
+    border-radius: 5px;
+}
+/* challenges part */
+.food-items{
+    text-align: center;
+}
+/* bmi part */
+.hh{
+    text-align: center;
+}
+.gg{
+    background-color: rgb(66, 60, 60);
+}
+/*team*/
+.trainer{
+    text-align: center;
+}
+.im{
+    background-color: rgb(66, 60, 60);
+}
+/* last */
+.last{
+    background-color: rgb(66, 60, 60);
+    display: flex;
+    justify-content: space-evenly;
+}
+.finish{
+    text-align: center;
+}
